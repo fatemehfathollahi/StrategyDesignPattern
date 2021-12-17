@@ -18,7 +18,7 @@ namespace StrategyDesignPattern
 
         public void Add(string name)
         {
-            List.Add(name);
+            List.Add(name); 
         }
 
         public void Sort()
